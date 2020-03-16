@@ -1,8 +1,0 @@
-% imapsync
-
-
-
-
-# Synchronize imap account between host1 and host2:
-
-imapsync --host1 <host1> --user1 <user1> --password1 <secret1> --host2 <host2> --user2 <user2> --password2 <secret2>

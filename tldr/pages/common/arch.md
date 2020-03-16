@@ -1,8 +1,0 @@
-% arch
-
-
-
-
-# Display the system's architecture:
-
-arch

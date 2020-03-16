@@ -1,7 +1,0 @@
-% command
-
-
-
-# Execute the ls program literally, even if an ls alias exists:
-
-command <ls>

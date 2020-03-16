@@ -1,7 +1,0 @@
-% chsh
-
-
-
-# Change shell:
-
-chsh -s <path/to/shell_binary> <username>

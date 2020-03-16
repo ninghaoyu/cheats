@@ -1,8 +1,0 @@
-% is-up
-
-
-
-
-# Check the status of the specified website:
-
-is-up <example.com>

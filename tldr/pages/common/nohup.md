@@ -1,7 +1,0 @@
-% nohup
-
-
-
-# Run process that can live beyond the terminal:
-
-nohup <command options>

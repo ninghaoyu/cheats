@@ -1,8 +1,0 @@
-% vue serve
-
-
-
-
-# Serve a `.js` or `.vue` file in development mode with zero config:
-
-vue serve <filename>

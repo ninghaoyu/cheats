@@ -1,7 +1,0 @@
-% poweroff
-
-
-
-# Poweroff the system:
-
-sudo poweroff

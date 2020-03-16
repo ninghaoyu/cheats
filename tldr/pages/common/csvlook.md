@@ -1,9 +1,0 @@
-% csvlook
-
-
-
-
-
-# View a CSV file:
-
-csvlook <data.csv>

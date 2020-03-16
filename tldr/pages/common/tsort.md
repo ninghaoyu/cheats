@@ -1,8 +1,0 @@
-% tsort
-
-
-
-
-# Perform a topological sort consistent with a partial sort per line of input separated by blanks:
-
-tsort <file>

@@ -1,8 +1,0 @@
-% lsmod
-
-
-
-
-# List all currently loaded kernel modules:
-
-lsmod

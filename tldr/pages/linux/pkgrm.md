@@ -1,7 +1,0 @@
-% pkgrm
-
-
-
-# Remove an installed package:
-
-pkgrm <package_name>

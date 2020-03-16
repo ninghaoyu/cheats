@@ -1,8 +1,0 @@
-% xkill
-
-
-
-
-# Display a cursor to kill a window when pressing the left mouse button (press any other mouse button to cancel):
-
-xkill

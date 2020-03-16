@@ -1,7 +1,0 @@
-% hostid
-
-
-
-# Display the numeric identifier for the current host in hexadecimal:
-
-hostid

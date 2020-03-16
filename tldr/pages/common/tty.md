@@ -1,7 +1,0 @@
-% tty
-
-
-
-# Print the file name of this terminal:
-
-tty

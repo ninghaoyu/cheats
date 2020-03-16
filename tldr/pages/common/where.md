@@ -1,8 +1,0 @@
-% where
-
-
-
-
-# Find all instances of a command:
-
-where <command>

@@ -1,7 +1,0 @@
-% fc-pattern
-
-
-
-# Display default information about a font:
-
-fc-pattern -d '<DejaVu Serif>'

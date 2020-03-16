@@ -1,7 +1,0 @@
-% logname
-
-
-
-# Display the currently logged in user's name:
-
-logname

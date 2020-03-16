@@ -1,8 +1,0 @@
-% true
-
-
-
-
-# Return a successful exit code:
-
-true

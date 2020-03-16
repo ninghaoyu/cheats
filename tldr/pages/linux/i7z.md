@@ -1,7 +1,0 @@
-% i7z
-
-
-
-# Start i7z (needs to be run in super user mode):
-
-sudo i7z

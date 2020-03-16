@@ -1,7 +1,0 @@
-% false
-
-
-
-# Return an exit code of 1:
-
-false

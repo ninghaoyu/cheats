@@ -1,8 +1,0 @@
-% zbarimg
-
-
-
-
-# Process an image file:
-
-zbarimg <image_file>

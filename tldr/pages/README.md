@@ -1,0 +1,2 @@
+- create sed.script
+- use ls |sed |sh to patch change all file to .cheat

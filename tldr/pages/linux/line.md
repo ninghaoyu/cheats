@@ -1,7 +1,0 @@
-% line
-
-
-
-# Read input:
-
-line

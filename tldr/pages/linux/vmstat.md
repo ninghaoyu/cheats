@@ -1,8 +1,0 @@
-% vmstat
-
-
-
-
-# Display reports every 2 seconds for 5 times:
-
-vmstat <2> <5>

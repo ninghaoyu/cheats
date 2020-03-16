@@ -1,9 +1,0 @@
-% f3read
-
-
-
-
-
-# Validate a device by checking the files in a given directory:
-
-f3read <path/to/mount_point>

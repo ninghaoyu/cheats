@@ -1,8 +1,0 @@
-% ethtool
-
-
-
-
-# Set the link speed, duplex mode, and parameter autonegotiation for a given interface:
-
-ethtool -s <eth0> speed <10|100|1000> duplex <half|full> autoneg <on|off>

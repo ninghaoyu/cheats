@@ -1,7 +1,0 @@
-% source
-
-
-
-# Evaluate contents of a given file:
-
-source <path/to/file>

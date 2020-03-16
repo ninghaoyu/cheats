@@ -1,7 +1,0 @@
-% time
-
-
-
-# Time "ls":
-
-time ls

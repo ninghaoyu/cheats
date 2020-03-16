@@ -1,7 +1,0 @@
-% archey
-
-
-
-# Show system information:
-
-archey

@@ -1,8 +1,0 @@
-% view
-
-
-
-
-# Open a file:
-
-view <file>

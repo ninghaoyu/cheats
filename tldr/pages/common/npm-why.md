@@ -1,8 +1,0 @@
-% npm-why
-
-
-
-
-# Show why an npm package is installed:
-
-npm-why <package-name>

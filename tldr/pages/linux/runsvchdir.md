@@ -1,7 +1,0 @@
-% runsvchdir
-
-
-
-# Switch `runsvdir` directories:
-
-sudo runsvchdir </path/to/directory>
