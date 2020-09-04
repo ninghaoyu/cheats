@@ -1,17 +1,17 @@
 % diff, patch
 
-#使用以下命令生成补丁文件xxxx.patch 
+# 使用以下命令生成补丁文件xxxx.patch 
 diff -u <oldfile> <newfile> > <patchfile>.patch 
 
 
-#diff可以对整个目录进行比较，生成补丁文件
+# diff可以对整个目录进行比较，生成补丁文件
 diff -ruNa <oldfile> <newfile> > <patchfile>.patch 
 
 
-#patch 把补丁运用到原代码上的命令
+# patch 把补丁运用到原代码上的命令
 patch <suffix> < <patchfile> 
 
-#备份被patch 的源文件
+# 备份被patch 的源文件
 patch -b <suffix> < <patchfile> 
 
 
